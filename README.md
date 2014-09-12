@@ -1,6 +1,6 @@
 # PigLatinTranslator
 
-TODO: Write a gem description
+Really simple Pig Latin translator.
 
 ## Installation
 
@@ -20,7 +20,9 @@ Or install it yourself as:
 
 ## Usage
 
-TODO: Write usage instructions here
+```ruby
+PigLatinTranslator.translate('Hello my name is Joan') # => "Ellohay ymay amenay siway Oanjay"
+```
 
 ## Contributing
 
